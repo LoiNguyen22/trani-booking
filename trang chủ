@@ -1,0 +1,646 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="vi"><head>
+<meta charset="UTF-8" />
+<title>Khách sạn, máy bay, tour và hoạt động vui chơi - Amazingo</title>
+<meta name="description" content="Amazingo mang khách sạn, vé máy bay, tour và các hoạt động vui chơi cho khách hàng lựa chọn, chính sách linh hoạt với các dịch vụ giá tốt mỗi ngày" />
+<meta name="robots" content="index,follow" />
+<meta name="theme-color" content="#55AF32" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="https://amazingo.vn" />
+<link rel="stylesheet" type="text/css" href="https://s.amazingo.vn/cache/desktop/h_home_index_f27cac54c4be4988078522f3dd7ff111.css" />
+<link rel="shortcut icon" type="image/png" href="/webskins/brand/amz/favicon.png" />
+<link rel="icon" href="/webskins/brand/amz/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/webskins/brand/amz/favicon-180.png" />
+<link rel="manifest" href="/manifest.json" />
+<link rel="search" type="application/opensearchdescription+xml" title="Amazingo" href="/opensearch.xml" />
+<meta property="fb:app_id" content="394175123938000" />
+<meta property="og:title" content="Khách sạn, máy bay, tour và hoạt động vui chơi - Amazingo" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Amazingo" />
+<meta property="og:description" content="Amazingo mang khách sạn, vé máy bay, tour và các hoạt động vui chơi cho khách hàng lựa chọn, chính sách linh hoạt với các dịch vụ giá tốt mỗi ngày" />
+<meta property="og:url" content="https://amazingo.vn" />
+<meta property="og:image" content="https://i.amazingo.vn//webskins/brand/amz/logo.svg" />
+<style>.main_search_section {
+		background-image: url("https://i.amazingo.vn/cache/1920x500/cityimage_23hinhanhthanhphomateravungbasilicatanuocY.jpg");}</style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHPJGRD2');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+<div class="header-wrap"><header class="navbar header">
+	<a href="https://amazingo.vn/" title="Du lịch cùng Amazingo"><img class="logo" src="/webskins/brand/amz/logo.svg?v=2.4" height="50" alt="Dat phong khach san" /></a>
+	<ul class="headerChanges">
+		<li>
+			<div id="headerSignin">
+				<span id="dialogSignin">Đăng nhập</span> | <a href="https://amazingo.vn/user/signup.html" title="Đăng ký">Đăng ký</a>
+			</div>
+		</li>
+		<li class="mg_lf mg_ct">
+			<div class="dropdown">
+				<div class="select_box dropdown-toggle" data-bs-toggle="dropdown" id="current_currency" aria-expanded="false">
+					<span class="symbol">VND</span>
+					<span class="description"> Đồng Việt Nam </span>
+				</div>
+				<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="current_currency">
+					<li><a class="dropdown-item change_currency" data-id="USD"> <span class="selsymbol"> US$ </span><span class="seldescription"> Đô la Mỹ </span></a></li>
+					<li><a class="dropdown-item change_currency" data-id="VND"> <span class="selsymbol"> VND </span><span class="seldescription"> Đồng Việt Nam </span></a></li>
+				</ul>
+			</div>
+		</li>
+		<li class="mg_lf">
+			<div class="dropdown">
+				<div id="current_lang" class="select_box dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+					<span class="symbol vn_flag"></span><span class="description"> Tiếng Việt </span>
+				</div>
+				<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="current_lang">
+					<li><a class="dropdown-item lang" data-lang="en" data-link=""><span class="selsymbol"><span class="langflag en_flag"></span></span><span class="seldescription"> English </span></a></li>
+					<li><a class="dropdown-item lang" data-lang="vi" data-link=""><span class="selsymbol"><span class="langflag vn_flag"></span></span><span class="seldescription"> Tiếng Việt </span></a></li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</header>
+<div id="dialogHeader" class="modal fade modal-dialog-search" tabindex="-1" aria-labelledby="Login Header" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<p class="modal-title h4">Đăng nhập</p>
+				<button class="btn-close" data-bs-dismiss="modal" type="button" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<form name="HomeHeaderLogin" method="post" onsubmit="return false;" id="HomeHeaderLogin">
+				<div class="div3">
+					<span class="leftdiv">Email</span>
+					<input type="text" name="emailLogin" id="emailLogin" value="" class="bookMobile input-select"/> <span style='color:red;font-weight: bold;display:inline;'>*</span>
+				</div>
+				<div class="div3">
+					<span class="leftdiv">Mật khẩu</span>
+					<input type="password" name="passLogin" id="passLogin" value="" class="bookMobile input-select"/> <span style='color:red;font-weight: bold;display:inline;'>*</span>
+				</div>
+				<div class="div3"><button type="submit" name="loginbtnOK" id="loginbtnOK" class="buttonSb btn btn-main">Đăng nhập</button></div>
+				<p id="forgotPassword">Quên mật khẩu?</p>
+				<p class="linkSignup"><a href="https://amazingo.vn/user/signup.html" target="_blank" rel="noopener">Đăng ký tài khoản tại Amazingo</a></p>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="dialogForgotPass" class="modal fade modal-dialog-search" tabindex="-1" aria-labelledby="Forgot Password" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<p class="modal-title">Bạn không thể nhớ mật khẩu đăng nhập vào tài khoản.<br>Hãy nhập mail và gửi yêu cầu đến chúng tôi để nhận được mật khẩu mới.</p>
+				<button class="btn-close" data-bs-dismiss="modal" type="button" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<form name="HomeHeaderForgotPass" method="post" onsubmit="return false;" id="HomeHeaderForgotPass">
+				<div class="div3">
+					<span class="leftdiv">Email</span>
+					<input type="text" name="emailForgotPass" id="emailForgotPass" value="" class="bookMobile input-select"/> <span style='color:red;font-weight: bold;display:inline;'>*</span>
+				</div>
+				<div class="div3"><button type="submit" name="ForgotPassbtnOK" id="ForgotPassbtnOK" class="buttonSb btn btn-primary">Gửi Mật khẩu</button></div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div><div class="nav-main-menu">
+	<ul class="header-bar" id="main-nav">
+		<li class="menu-item menu-active"><a href="/">Khách sạn</a></li>
+		<li class="menu-item"><a href="/du-lich">Tour</a></li>
+		<li class="menu-item"><a href="/ve-may-bay">Chuyến bay</a></li>
+		<li class="menu-item"><a href="/hoat-dong">Địa điểm tham quan</a></li>
+	</ul>
+</div></div>
+
+<div class="main_search_section">
+	<div>
+	<h1 class="txtlight">Đặt phòng khách sạn, resort, căn hộ</h1>
+	<strong class="txtlight">5000 khách sạn tại Việt Nam. Nhập điểm đến, ngày đi để tìm phòng</strong>
+	<div class="baner_search">
+	<form name="SearchFormView" id="SearchFormViewHome" method="post" onsubmit="return false;">
+		<div class="property-searching">
+			<input type="text" name="hotel" id="hotel" value="" placeholder="Bạn nhập khách sạn, địa điểm, địa danh..." class="form-control searchhotels" data-selected=""/>
+			<ul class="feature-cities d-none" data-hide="true">
+				<li>
+					Các địa điểm nổi bật
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="2" data-name="Đà Nẵng">Khách sạn Đà Nẵng</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="10" data-name="Phú Quốc">Khách sạn Phú Quốc</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="1" data-name="Đà Lạt">Khách sạn Đà Lạt</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="59" data-name="Sầm Sơn">Khách sạn Sầm Sơn</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="15" data-name="Sapa">Khách sạn Sapa</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="13" data-name="Hạ Long">Khách sạn Hạ Long</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="7" data-name="Tp Hồ Chí Minh">Khách sạn Tp Hồ Chí Minh</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="8" data-name="Hà Nội">Khách sạn Hà Nội</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="5" data-name="Nha Trang">Khách sạn Nha Trang</span>
+				</li>
+				
+				<li class="col-12 col-md-4">
+					<span class="city-item" data-id="36" data-name="Mũi Né">Khách sạn Mũi Né</span>
+				</li>
+				
+			</ul>
+		</div>
+		<div class="date-section d-flex">
+			<div class="col-6 date-cell start">
+				<div>
+					<input type="text" name="date_start" id="date_start" value="" readonly autocomplete="off" placeholder="Ngày nhận phòng" class="formDate form-control hidden-mobile dateReadonly" data-date=""/>
+					<div id="mb_date_start" class="date-search form-control d-none">Ngày nhận phòng</div>
+					<i class="fas fa-calendar-alt icon-date"></i>
+				</div>
+			</div>
+			<div class="col-6 date-cell end">
+				<div>
+					<input type="text" name="date_end" id="date_end" value="" readonly autocomplete="off" placeholder="Ngày trả phòng" class="formDate form-control hidden-mobile dateReadonly" data-date=""/>
+					<div id="mb_date_end" class="date-search form-control d-none">Ngày trả phòng</div>
+					<i class="fas fa-calendar-alt icon-date"></i>
+				</div>
+			</div>
+		</div>
+		<div class="hidden-desktop">
+			<div id="datepicker_start" class="mb_datepicker"></div>
+			<div id="datepicker_end" class="mb_datepicker"></div>
+		</div>
+		<div class="btn-section">
+			<div class="searchBtn">
+				<button type="button" id="btnSearch" class="btn btn-main bigBtnSearch">Tìm kiếm</button>
+			</div>
+			<div class="tick-icon hidden-mobile"><span class="best-price-text"><i class="fas fa-check"></i>Đảm bảo giá tốt nhất</span></div>
+		</div>
+	</form>
+	</div>
+</div>
+</div>
+
+<div class="box-main-content">
+	<div class="main_section">
+		<div>
+		<nav class="item-layout">
+    <a href="/cruises/city/ha-long.html" class="product-menu-item">
+        <i class="fas fa-ship"></i>
+        <label>Du thuyền Hạ Long</label>
+    </a>
+    <a href="/hoat-dong" class="product-menu-item">
+        <i class="fas fa-ticket-alt"></i>
+        <label>Địa điểm tham quan</label>
+    </a>
+    <a href="/ve-may-bay" class="product-menu-item">
+        <i class="fas fa-plane-departure" aria-hidden="true"></i>
+        <label>Chuyến bay</label>
+    </a>
+    <a href="/du-lich" class="product-menu-item">
+        <i class="fas fa-caravan"></i>
+        <label>Tour</label>
+    </a>
+    <a href="/vivu" class="product-menu-item">
+        <i class="fas fa-umbrella-beach"></i>
+        <label>Vivu</label>
+    </a>
+</nav><h2 class="title-most-product col-12">Điểm tham quan nổi bật</h2>
+<div class="most-products">
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/hoat-dong/1-vinwonders-nam-hoi-an.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/1_activityarea_DJi0355crop.jpg" alt="VinWonders Nam Hội An" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">VinWonders Nam Hội An</h3>
+				<p class="product-add">Đường Võ Chí Công, Bình Minh, Thăng Bình, Quảng Nam</p>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/hoat-dong/2-vinwonders-nha-trang.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/2_activityarea_vinwondernhatrang1.jpg" alt="VinWonders Nha Trang" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">VinWonders Nha Trang</h3>
+				<p class="product-add">Đảo Hòn Tre, phường Vĩnh Nguyên, TP Nha Trang</p>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/hoat-dong/3-vinwonders-phu-quoc.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/3_activityarea_thuycungkimquyivivu9.jpg" alt="VinWonders Phú Quốc" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">VinWonders Phú Quốc</h3>
+				<p class="product-add">Khu Bãi Dài, Phú Quốc, Kiên Giang</p>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/hoat-dong/5-vinke-and-vinpearl-aquarium.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/5_activityarea_CoverVinKEVinpearlAquariumgiamdungluongscaled.jpg" alt="VinKE & Aquarium Times City" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">VinKE & Aquarium Times City</h3>
+				<p class="product-add"> Số 458 đường Minh Khai, thuộc phường Vĩnh Tuy, quận Hai Bà Trưng, Hà Nội.</p>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+</div>
+<h2 class="title-most-product col-12">Tour nổi bật</h2>
+<div class="most-products">
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/du-lich/tour-singapore-malaysia-4-ngay-3-dem-khoi-hanh-tu-ho-chi-minh.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/176_tour_thacnuocjewelchangitoursingaporemalaysia4ngay3dem.jpg" alt="Tour Singapore - Malaysia 4 Ngày 3 Đêm Khởi Hành Từ Hồ Chí Minh" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">Tour Singapore - Malaysia 4 Ngày 3 Đêm Khởi Hành Từ Hồ Chí Minh</h3>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/du-lich/tour-singapore-malaysia-5-ngay-4-dem-khoi-hanh-tu-ho-chi-minh.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/171_tour_MerlionParktoursingaporemalaysia5ngay4dem.jpg" alt="Tour Singapore - Malaysia 5 Ngày 4 Đêm Khởi Hành Từ Hồ Chí Minh" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">Tour Singapore - Malaysia 5 Ngày 4 Đêm Khởi Hành Từ Hồ Chí Minh</h3>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/du-lich/tour-5-nuoc-chau-au-dac-biet-duc-ao-y-thuy-si-phap.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/166_tour_LakeLucerneinWeggisvillagewithPilatusmountainandSwissAlpsinbackgroundnearLucerneSwitzerland456473839768x5123.jpg" alt="Tour 5 Nước Châu Âu Đặc Biệt: Đức - Áo - Ý - Thụy Sĩ - Pháp" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">Tour 5 Nước Châu Âu Đặc Biệt: Đức - Áo - Ý - Thụy Sĩ - Pháp</h3>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+	<div class="col-8 col-md-5 col-lg-3">
+		<div class="one-product">
+			<a href="https://amazingo.vn/du-lich/lien-tuyen-5-nuoc-tay-au -lang-co-tich-giethoorn-9-ngay-8-dem.html">
+			<div class="product-img-sec">
+				<img src="https://i.amazingo.vn/cache/250x135/165_tour_lientuyen5nuoctayau3.jpg" alt="Liên Tuyến 5 Nước Tây Âu - Làng Cổ Tích Giethoorn 9 Ngày 8 Đêm" />
+			</div>
+			<div class="product-info-sec">
+				<h3 class="product-name h3">Liên Tuyến 5 Nước Tây Âu - Làng Cổ Tích Giethoorn 9 Ngày 8 Đêm</h3>
+			</div>
+			</a>
+		</div>
+	</div>
+	
+</div>
+		</div>
+		<div class="city-feature">
+		<div class="city-feature-cover">
+	<h2 class="title-most-product col-12">Điểm đến yêu thích</h2>
+	<div class="all-city-feat">
+		
+		<div class="col-6 col-md-6 col-lg-5">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/453x254/15_city_hoteldelacoupolemgallerybysofitel.jpg" class="card-img" alt="Sapa" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/sapa.html">Sapa</a></h3>
+					<p class="card-text">64 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-6 col-md-6 col-lg-3">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/268x254/10_city_Phuquoc31.jpg" class="card-img" alt="Phú Quốc" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/phu-quoc.html">Phú Quốc</a></h3>
+					<p class="card-text">105 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-12 col-md-5 col-lg-4">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/360x254/13_city_canhdephalongchuptutrencao.jpg" class="card-img" alt="Hạ Long" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/ha-long.html">Hạ Long</a></h3>
+					<p class="card-text">139 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-6 col-md-7 col-lg-4">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/360x254/2_city_banahilldulichdanang11.jpg" class="card-img" alt="Đà Nẵng" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/da-nang.html">Đà Nẵng</a></h3>
+					<p class="card-text">336 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-6 col-md-4 col-lg-8">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/730x254/1_city_dalatHXC2QFlxG3E.jpg" class="card-img" alt="Đà Lạt" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/da-lat.html">Đà Lạt</a></h3>
+					<p class="card-text">86 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/268x254/4_city_27baibienhonromphanthiet.jpg" class="card-img" alt="Phan Thiết" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/phan-thiet.html">Phan Thiết</a></h3>
+					<p class="card-text">48 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-6 col-md-4 col-lg-3">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/268x254/8_city_hohoankiem.jpg" class="card-img" alt="Hà Nội" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/ha-noi.html">Hà Nội</a></h3>
+					<p class="card-text">286 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-6 col-md-8 col-lg-3">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/268x254/59_city_flcsamson.jpg" class="card-img" alt="Sầm Sơn" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/sam-son.html">Sầm Sơn</a></h3>
+					<p class="card-text">24 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="card text-white cityRow">
+				<img src="https://i.amazingo.vn/cache/268x254/7_city_tphcm.jpg" class="card-img" alt="Tp Hồ Chí Minh" />		
+				<div class="card-img-overlay">
+					<h3 class="card-title"><a href="https://amazingo.vn/city/thanh-pho-ho-chi-minh.html">Tp Hồ Chí Minh</a></h3>
+					<p class="card-text">185 chỗ ở</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div><div class="col-layout p-2">
+	<p><strong>Amazingo – nền tảng du lịch trực tuyến tuỳ biến theo nhu cầu của bạn</strong></p>
+
+<p>Amazingo cung cấp cho khách hàng các trải nghiệm toàn diện về du lịch, từ các dịch vụ phục vụ du lịch tự túc như phòng khách sạn, vé vui chơi, vé máy bay, các tour daily... cho đến tour trọn gói xây dựng sẵn. Ngoài ra chúng tôi có các dịch vụ du lịch tuỳ biến theo yêu cầu của khách hàng, đặc biệt các yêu cầu riêng biệt cho khách hàng doanh nghiệp, khách đoàn. Chúng tôi luôn hướng tới dịch vụ tốt nhất, chu đáo nhất tới quý khách hàng.</p>
+
+<p><strong>Tại sao lại chọn Amazingo? </strong></p>
+
+<p>- Luôn có giá ưu đãi: Chúng tôi luôn nỗ lực để khớp giá tốt nhất cho quý khách.</p>
+
+<p>- Xây dựng dịch vụ theo nhu cầu cá nhân: Chúng tôi hiểu rằng mỗi khách hàng có những sở thích trải nghiệm riêng, vì vậy đội ngũ của chúng tôi luôn nỗ lực để cung cấp dịch vụ tốt nhất, riêng biệt tới từng cá nhân. Và chúng tôi cũng luôn lắng nghe để cá nhân hoá dịch vụ theo yêu cầu của khách hàng.</p>
+
+<p>- Luôn sẵn sàng đáp ứng mọi nhu cầu về dịch vụ và trải nghiệm của khách hàng.</p>
+
+<p>- Phương thức thanh toán an toàn và linh hoạt theo yêu cầu của khách hàng.</p>
+
+<p>- Giao dịch trực tuyến an toàn cam kết bảo mật tuyệt đối.</p>
+
+</div>
+		</div>
+	</div>
+</div>
+<div class="extra-info-view">
+	<div class="main_section">
+		<div class="col-12"><div class="guest-tell">
+	<div class="review-title-sec"><span>Chia sẻ của khách hàng</span></div>
+	<div id="carousel-guest-review-hotel" class="carousel slide guest-review" data-bs-ride="carousel">
+		<!-- Wrapper for slides -->
+		<div class="carousel-inner">
+			
+			<div class="carousel-item one-home-review active">
+				<div>
+					<span class="ndcoment">Khách sạn khiến chúng tôi rất hài lòng, nhân viên hỗ trợ nhiệt tình.
+Chỉ có 01 điểm trừ là khách sạn hơi xa với Trung tâm TP Quy Nhơn, nên ban đêm đi chơi rất ngại.
+VnBooking hỗ trợ nhiệt tình.</span>
+				</div>
+				<div>
+					<a class="linkcomment" href="https://amazingo.vn/hotel/flc-luxury-hotel-quy-nhon.html">Xem đánh giá của khách</a>
+					<span class="date">22/02/2021</span>
+				</div>
+				<div class="khcomment">
+					<span class="guest-label"><span>Khách hàng</span></span> 
+					<span class="guest-name">Dương Thị Bích Trang</span>
+				</div>
+			</div>
+			
+			<div class="carousel-item one-home-review ">
+				<div>
+					<span class="ndcoment">Nhà mình có con nhỏ, lại đi vào mùa không có sen. Nhưng cực kỳ hài lòng, không gian rộng rãi trẻ em chạy , chơi đùa thoải mái. 
+Sẽ quay lại vào mùa sen !! </span>
+				</div>
+				<div>
+					<a class="linkcomment" href="https://amazingo.vn/hotel/vuon-vua-resort-and-villas.html">Xem đánh giá của khách</a>
+					<span class="date">01/03/2021</span>
+				</div>
+				<div class="khcomment">
+					<span class="guest-label"><span>Khách hàng</span></span> 
+					<span class="guest-name">Cấn Mạnh Toàn</span>
+				</div>
+			</div>
+			
+			<div class="carousel-item one-home-review ">
+				<div>
+					<span class="ndcoment">Đánh giá phòng </span>
+				</div>
+				<div>
+					<a class="linkcomment" href="https://amazingo.vn/hotel/tam-chuc-complex.html">Xem đánh giá của khách</a>
+					<span class="date">16/03/2021</span>
+				</div>
+				<div class="khcomment">
+					<span class="guest-label"><span>Khách hàng</span></span> 
+					<span class="guest-name">Nguyễn Hạnh</span>
+				</div>
+			</div>
+			
+			<div class="carousel-item one-home-review ">
+				<div>
+					<span class="ndcoment">Cám ơn Vnbooking đã giúp chúng tôi chọn lựa được 1 nơi nghỉ dưỡng rất tuyệt vời tại thị trấn xinh đẹp Cát Bà- Hải Phòng. Khu resort Flamingo là 1 địa điểm lý tưởng để khách hàng có thể nghỉ ngơi, trải nghiệm và thưởng thức những món ăn ngon.</span>
+				</div>
+				<div>
+					<a class="linkcomment" href="https://amazingo.vn/hotel/flamingo-cat-ba-resort.html">Xem đánh giá của khách</a>
+					<span class="date">23/03/2021</span>
+				</div>
+				<div class="khcomment">
+					<span class="guest-label"><span>Khách hàng</span></span> 
+					<span class="guest-name">Vũ Thị Phương Thảo</span>
+				</div>
+			</div>
+			
+			<div class="carousel-item one-home-review ">
+				<div>
+					<span class="ndcoment">Chúng tôi quyết định chọn Serena Resort là điểm đến cho kỳ nghỉ của mình qua một số thông tin trên mạng và bạn bè . Quả thực chuyến đi là một kỷ niệm không bao giờ quên .
+Khung cảnh tổng thể rất đẹp , khuôn viên rộng , nhiều cây xanh . Có thể đi bộ , chạy bộ ...</span>
+				</div>
+				<div>
+					<a class="linkcomment" href="https://amazingo.vn/hotel/serena-resort-kim-boi.html">Xem đánh giá của khách</a>
+					<span class="date">31/03/2021</span>
+				</div>
+				<div class="khcomment">
+					<span class="guest-label"><span>Khách hàng</span></span> 
+					<span class="guest-name">Nguyễn Văn Hưng</span>
+				</div>
+			</div>
+			
+		</div>
+	  <div class="carousel-indicators">
+	  	
+	    <button type="button" data-bs-target="#carousel-guest-review-hotel" data-bs-slide-to="0" class="active" aria-label="Slide 0"></button>
+	    
+	    <button type="button" data-bs-target="#carousel-guest-review-hotel" data-bs-slide-to="1"  aria-label="Slide 1"></button>
+	    
+	    <button type="button" data-bs-target="#carousel-guest-review-hotel" data-bs-slide-to="2"  aria-label="Slide 2"></button>
+	    
+	    <button type="button" data-bs-target="#carousel-guest-review-hotel" data-bs-slide-to="3"  aria-label="Slide 3"></button>
+	    
+	    <button type="button" data-bs-target="#carousel-guest-review-hotel" data-bs-slide-to="4"  aria-label="Slide 4"></button>
+	    
+	  </div>
+	</div>
+</div></div>
+	</div>
+</div>
+
+<div class="footer_wrap">
+	<div class="footer"><div class="social-connect">
+	<span>Kết nối với chúng tôi</span>
+	<a href="https://www.facebook.com/AmazingoOfficial" target="_blank" rel="noopener" aria-label="Amazing FB"><i class="fab fa-facebook"></i></a>
+	<a href="https://www.instagram.com/AmazingoOfficial" target="_blank" rel="noopener" aria-label="Amazing Insta"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.tiktok.com/@amazingobooking" target="_blank" rel="noopener" aria-label="Amazing Tiktok"><i class="fab fa-tiktok"></i></a>
+</div>
+<div class="info-footer">
+	<div class="col-12 col-md-4 p-2">
+		<div class="footer-bold">
+			<p class="business-name">Công ty TNHH Công nghệ du lịch Amazing</p>
+			<p>Đăng ký kinh doanh: 0109963898</p>
+			<p>Giấy phép Lữ hành Quốc tế: 01-1995/2022/TCDL-GP LHQT</p>
+			<p>Mã IATA: 96127754</p>
+			<p>VPGD: Số 161 Trần Phú, Hà Đông, Hà Nội</p>
+			<p>Hotline: 0888 780 696</p>
+			<p>Email: support@amazingo.vn</p>
+			<p>
+				<img src="/webskins/brand/tour-license.png" alt="Giấy phép kinh doanh Lữ Hành Quốc Tế" class="img-certified">
+				<a href="/webskins/brand/IATA-full-size.png" target="_blank"><img src="/webskins/brand/iata-code.png" alt="IATA Member" class="img-certified"></a>
+			</p>
+		</div>
+	</div>
+	<div class="col-12 col-md-4 p-2">
+		<div class="footer-bold">
+			<span class="title-sec-foot">Cho Khách hàng</span>
+		</div>
+		<ul class="list-about">
+			<li><b class="fas fa-square"></b><a href="https://amazingo.vn/info/faq.html">Câu hỏi thường gặp</a></li>
+			<li><b class="fas fa-square"></b><a href="https://amazingo.vn/info/privacy.html">Chính sách riêng tư</a></li>
+			<li><b class="fas fa-square"></b><a href="https://amazingo.vn/info/policy.html">Chính sách đặt dịch vụ</a></li>
+		</ul>
+	</div>
+	<div class="col-12 col-md-4 p-2">
+		<div class="footer-bold">
+			<span class="title-sec-foot">Về Amazingo</span>
+		</div>
+		<ul class="list-about">
+			<li><b class="fas fa-square"></b><a href="https://amazingo.vn/info/about.html">Về Amazingo</a></li>
+			<li><b class="fas fa-square"></b><a href="/c-tin-tuc">Tin hoạt động Amazingo</a></li>
+			<li><b class="fas fa-square"></b><a href="/vivu">Amazingo Vivu</a></li>
+		</ul>
+	</div>
+</div>
+<p class="copyright-p">© 2024 by Amazing LLC. All rights reserved</p></div>
+	<div class="lower-footer"><div id="nav_hotline" data-support="1">
+   	<div class="main_nav_hotline">
+   		<span class="iconPhone"><i class="fas fa-phone"></i></span>
+   		<span class="phone_webimhot"><a href="tel:0888780696">0888 780 696</a></span>
+   	</div>
+   	<div class="share_nav">
+	    <a href="https://zalo.me/2421414683683486965" rel="noopener" target=_blank aria-label="Zalo" style="margin-right: 8px;">
+			<svg width="40px" height="40px" viewBox="0 0 62 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M22.782 0.166016H27.199C33.2653 0.166016 36.8103 1.05701 39.9572 2.74421C43.1041 4.4314 45.5875 6.89585 47.2557 10.0428C48.9429 13.1897 49.8339 16.7347 49.8339 22.801V27.1991C49.8339 33.2654 48.9429 36.8104 47.2557 39.9573C45.5685 43.1042 43.1041 45.5877 39.9572 47.2559C36.8103 48.9431 33.2653 49.8341 27.199 49.8341H22.8009C16.7346 49.8341 13.1896 48.9431 10.0427 47.2559C6.89583 45.5687 4.41243 43.1042 2.7442 39.9573C1.057 36.8104 0.166016 33.2654 0.166016 27.1991V22.801C0.166016 16.7347 1.057 13.1897 2.7442 10.0428C4.43139 6.89585 6.89583 4.41245 10.0427 2.74421C13.1707 1.05701 16.7346 0.166016 22.782 0.166016Z" fill="#0068FF"/>
+				<path opacity="0.12" fill-rule="evenodd" clip-rule="evenodd" d="M49.8336 26.4736V27.1994C49.8336 33.2657 48.9427 36.8107 47.2555 39.9576C45.5683 43.1045 43.1038 45.5879 39.9569 47.2562C36.81 48.9434 33.265 49.8344 27.1987 49.8344H22.8007C17.8369 49.8344 14.5612 49.2378 11.8104 48.0966L7.27539 43.4267L49.8336 26.4736Z" fill="#001A33"/>
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M7.779 43.5892C10.1019 43.846 13.0061 43.1836 15.0682 42.1825C24.0225 47.1318 38.0197 46.8954 46.4923 41.4732C46.8209 40.9803 47.1279 40.4677 47.4128 39.9363C49.1062 36.7779 50.0004 33.22 50.0004 27.1316V22.7175C50.0004 16.629 49.1062 13.0711 47.4128 9.91273C45.7385 6.75436 43.2461 4.28093 40.0877 2.58758C36.9293 0.894239 33.3714 0 27.283 0H22.8499C17.6644 0 14.2982 0.652754 11.4699 1.89893C11.3153 2.03737 11.1636 2.17818 11.0151 2.32135C2.71734 10.3203 2.08658 27.6593 9.12279 37.0782C9.13064 37.0921 9.13933 37.1061 9.14889 37.1203C10.2334 38.7185 9.18694 41.5154 7.55068 43.1516C7.28431 43.399 7.37944 43.5512 7.779 43.5892Z" fill="white"/>
+				<path d="M20.5632 17H10.8382V19.0853H17.5869L10.9329 27.3317C10.7244 27.635 10.5728 27.9194 10.5728 28.5639V29.0947H19.748C20.203 29.0947 20.5822 28.7156 20.5822 28.2606V27.1421H13.4922L19.748 19.2938C19.8428 19.1801 20.0134 18.9716 20.0893 18.8768L20.1272 18.8199C20.4874 18.2891 20.5632 17.8341 20.5632 17.2844V17Z" fill="#0068FF"/>
+				<path d="M32.9416 29.0947H34.3255V17H32.2402V28.3933C32.2402 28.7725 32.5435 29.0947 32.9416 29.0947Z" fill="#0068FF"/>
+				<path d="M25.814 19.6924C23.1979 19.6924 21.0747 21.8156 21.0747 24.4317C21.0747 27.0478 23.1979 29.171 25.814 29.171C28.4301 29.171 30.5533 27.0478 30.5533 24.4317C30.5723 21.8156 28.4491 19.6924 25.814 19.6924ZM25.814 27.2184C24.2785 27.2184 23.0273 25.9672 23.0273 24.4317C23.0273 22.8962 24.2785 21.645 25.814 21.645C27.3495 21.645 28.6007 22.8962 28.6007 24.4317C28.6007 25.9672 27.3685 27.2184 25.814 27.2184Z" fill="#0068FF"/>
+				<path d="M40.4867 19.6162C37.8516 19.6162 35.7095 21.7584 35.7095 24.3934C35.7095 27.0285 37.8516 29.1707 40.4867 29.1707C43.1217 29.1707 45.2639 27.0285 45.2639 24.3934C45.2639 21.7584 43.1217 19.6162 40.4867 19.6162ZM40.4867 27.2181C38.9322 27.2181 37.681 25.9669 37.681 24.4124C37.681 22.8579 38.9322 21.6067 40.4867 21.6067C42.0412 21.6067 43.2924 22.8579 43.2924 24.4124C43.2924 25.9669 42.0412 27.2181 40.4867 27.2181Z" fill="#0068FF"/>
+				<path d="M29.4562 29.0944H30.5747V19.957H28.6221V28.2793C28.6221 28.7153 29.0012 29.0944 29.4562 29.0944Z" fill="#0068FF"/>
+			</svg>
+		</a>
+   		<a href="https://m.me/AmazingoOfficial" rel="noopener" target=_blank aria-label="Fb">
+   			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="40px" height="40px">
+				<linearGradient id="SVGID_1__48160" gradientUnits="userSpaceOnUse" x1="31.9864" y1="5.1392" x2="31.9864" y2="59.1462" spreadMethod="reflect">
+					<stop offset="0" style="stop-color:#0896FF"/>
+					<stop offset="1" style="stop-color:#0896FF"/>
+				</linearGradient>
+				<path style="fill:url(#SVGID_1__48160);" d="M15,58.335v-10.07c-6-4.962-8.88-11.664-8.88-18.459c0-13.312,11.693-24.142,26.051-24.142  c14.157,0,25.681,10.83,25.681,24.142c0,13.313-11.581,24.143-25.819,24.143c-2.429,0-4.906-0.311-7.153-0.899L15,58.335z   M32.183,7.665c-13.256,0-24.041,9.933-24.041,22.142c0,6.253,3.174,12.697,8.527,17.238l0.331,0.3v7.649l7.642-4.085l0.399,0.108  c2.179,0.609,4.6,0.932,6.991,0.932c13.135,0,23.824-9.934,23.824-22.143S45.237,7.665,32.183,7.665z"/>
+				<linearGradient id="XMLID_2__48160" gradientUnits="userSpaceOnUse" x1="32.1828" y1="22.5142" x2="32.1828" y2="38.2642" spreadMethod="reflect">
+					<stop offset="0" style="stop-color:#0896FF"/>
+					<stop offset="1" style="stop-color:#0896FF"/>
+				</linearGradient>
+				<polygon id="XMLID_3_" style="fill:url(#XMLID_2__48160);" points="34.789,37.698 28.388,31.048 16.062,37.865 29.576,23.524   35.977,30.173 48.304,23.356 "/>
+			</svg>
+   		</a>
+   	</div>
+</div></div>
+</div>
+<link rel="stylesheet" type="text/css" href="https://s.amazingo.vn/cache/desktop/f_home_index0037d79909c227bb9635f1ba47da1c71_8ba1c491a671964046f4ecf660131132.css" />
+<script async src="https://s.amazingo.vn/cache/desktop/f_home_index8fe3d8345fbff0cd8d964cb76e390d40_27927fc10232bb35f90a5da902eac19d.js" ></script></body></html>
